@@ -9,3 +9,7 @@ Code below that is causing the issue
     return this.props.location.pathname.indexOf(routeName) > -1 ? "active" : "";
   };
 ```
+
+Visual of what is happening
+
+![ActiveRoute Issue](https://github.com/khoreftis564/react-black-pro-issue/blob/master/Screen%20Shot%202020-05-08%20at%202.06.18%20PM.png?raw=true)
